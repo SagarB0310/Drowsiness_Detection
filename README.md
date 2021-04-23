@@ -8,7 +8,7 @@ Step 3 :– Find the eyes from ROI and feed it to the Model.<br>
 Step 4 :– Model will categorize whether eyes are open or closed.<br>
 Step 5 :– Calculate score to check whether the person is drowsy or not.<br>
 
-Project Timeline :-<br> 
+
 ![](https://github.com/SagarB0310/Drowsiness_Detection/blob/main/DOC/D1.jpg)<br>
 OUTPUT :-<br>
 ![](https://github.com/SagarB0310/Drowsiness_Detection/blob/main/DOC/Drowsy.gif)<br>
